@@ -3,7 +3,8 @@
 *.duckdb.wal
 *.sqlite
 *.sqlite3
-__pycache__/
-*.pyc
-venv/
+node_modules/
+dist/
 .env
+*.csv
+*.parquet
