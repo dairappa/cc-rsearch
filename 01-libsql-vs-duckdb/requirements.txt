@@ -1,0 +1,3 @@
+# libSQLはSQLite互換なのでPythonの標準sqlite3モジュールを使用
+# DuckDBのみインストールが必要
+duckdb>=1.0.0

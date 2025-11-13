@@ -1,0 +1,9 @@
+*.db
+*.duckdb
+*.duckdb.wal
+*.sqlite
+*.sqlite3
+__pycache__/
+*.pyc
+venv/
+.env

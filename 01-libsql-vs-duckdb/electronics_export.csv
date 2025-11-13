@@ -1,0 +1,5 @@
+id,product,category,price,quantity,region
+1,Laptop,Electronics,1200.0,5,North
+2,Mouse,Electronics,25.0,50,South
+3,Keyboard,Electronics,75.0,30,East
+4,Monitor,Electronics,300.0,15,West

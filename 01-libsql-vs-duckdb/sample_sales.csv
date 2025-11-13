@@ -1,0 +1,11 @@
+id,product,category,price,quantity,region
+1,Laptop,Electronics,1200,5,North
+2,Mouse,Electronics,25,50,South
+3,Keyboard,Electronics,75,30,East
+4,Monitor,Electronics,300,15,West
+5,Desk,Furniture,450,8,North
+6,Chair,Furniture,200,12,South
+7,Lamp,Furniture,50,25,East
+8,Notebook,Stationery,5,200,West
+9,Pen,Stationery,1,500,North
+10,Pencil,Stationery,0.5,800,South
